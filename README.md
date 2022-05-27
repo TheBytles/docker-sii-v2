@@ -1,7 +1,7 @@
 # Infraestructura Docker 2.0 - Autodespligue 
 Modificación a la infraestructura para que despligue automáticamente el .ear
 
-![image](https://user-images.githubusercontent.com/106350281/170726938-e43005b0-15a8-4714-b9ce-9655123d12b9.png)
+![Alt Text](https://www.google.com/url?sa=i&url=https%3A%2F%2Far.pinterest.com%2Fpin%2F32721534774192867%2F&psig=AOvVaw3QWIolaud0c37IHIwH_1HF&ust=1653750359463000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCMiUhaj6__cCFQAAAAAdAAAAABAO.gif)
 
 # Preparación
 <ul>
