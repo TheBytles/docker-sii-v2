@@ -1,4 +1,4 @@
-CAMBIAR VARIABLES:#############################################################
+#CAMBIAR VARIABLES:############################################################
 CARPETA_EAR="proyecto-ear" # Nombre de la carpeta que contiene el EAR
 NOMBRE_WAR="proyecto-war" #Aquí el nombre del WAR que se va a desplegar
 ###############################################################################
