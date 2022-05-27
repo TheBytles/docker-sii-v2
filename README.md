@@ -13,5 +13,5 @@ Modificación a la infraestructura provista por el profesor para que despligue a
  
 # Ejecución
  <ul>
-   <li>Desde el directorio de tu proyecto ejecuta el comando <b><i>./docker-sii-v2/ejecutar.sh</i></b> (cambiar barras en Windows)</li>
+   <li>Abre la terminal y desde el directorio de tu proyecto ejecuta el comando <b><i>./docker-sii-v2/ejecutar.sh</i></b> (cambiar barras en Windows)</li>
  </ul>
