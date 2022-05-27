@@ -5,7 +5,7 @@ Modificación a la infraestructura provista por el profesor para que despligue a
 
 ## Preparación
 <ol>
-  <li>Clona esta repo dentro de tu proyecto</li>
+  <li>Clona esta repo dentro de tu proyecto con <b><i>git submodule add https://github.com/TheBytles/docker-sii-v2 docker-sii-v2</i></b></li>
   <li>Modifica el archivo <b>ejecutar.sh</b> de acorde a tu proyecto (2 primeras líneas)</li>
   <li>Darle una estrella al repositorio (⭐)</li>
   <li>Listo</li>
