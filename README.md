@@ -1,5 +1,5 @@
 # Infraestructura Docker 2.0 - Autodespligue 
-Modificación a la infraestructura para que despligue automáticamente el .ear
+Modificación a la infraestructura provista por el profesor para que despligue automáticamente el .ear y redireccione a la página del despligue para ahorrate muchos clicks.
 
 ![Alt Text](https://media.giphy.com/media/VeWllmR9zfaco/giphy.gif)
 
@@ -7,6 +7,7 @@ Modificación a la infraestructura para que despligue automáticamente el .ear
 <ol>
   <li>Clona esta repo dentro de tu proyecto</li>
   <li>Modifica el archivo <b>ejecutar.sh</b> de acorde a tu proyecto (2 primeras líneas)</li>
+  <li>Darle una estrella al repositorio (⭐)</li>
   <li>Listo</li>
  </ol> 
  
